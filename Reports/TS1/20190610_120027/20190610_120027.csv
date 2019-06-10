@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS1,Chrome 75.0.3770.80,,2019-06-10 12:00:30,2019-06-10 12:00:43,13.223s,PASSED
+,,,,,,
+Test Cases/TC1,Chrome 75.0.3770.80,,2019-06-10 12:00:31,2019-06-10 12:00:37,6.926s,PASSED
+"openBrowser(""www.google.se"")",Chrome 75.0.3770.80,,2019-06-10 12:00:31,2019-06-10 12:00:37,6.447s,PASSED
+,,,,,,
+Test Cases/TC3,Chrome 75.0.3770.80,,2019-06-10 12:00:37,2019-06-10 12:00:43,5.902s,PASSED
+"openBrowser("""")",Chrome 75.0.3770.80,,2019-06-10 12:00:38,2019-06-10 12:00:40,1.977s,PASSED
+"navigateToUrl(""www.amazon.co.uk"")",Chrome 75.0.3770.80,,2019-06-10 12:00:40,2019-06-10 12:00:43,3.444s,PASSED
+closeBrowser(),Chrome 75.0.3770.80,,2019-06-10 12:00:43,2019-06-10 12:00:43,0.236s,PASSED

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS1" time="15" tests="2" failures="0" errors="0">
+   <testsuite name="TS1" tests="2" failures="0" errors="0" time="15" timestamp="2019-06-10 11:53:29" hostname="jasmishaheer - 10.6.197.66" id="Test Suites/TS1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/jasmishaheer/Katalon Studio/Git_katalon_jenkins_2/Reports/TS1/20190610_115326"/>
+         <property name="logFiles" value="/Users/jasmishaheer/Katalon Studio/Git_katalon_jenkins_2/Reports/TS1/20190610_115326/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="jasmishaheer - 10.6.197.66"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="6.0.5.4"/>
+         <property name="browser" value="Chrome 75.0.3770.80"/>
+         <property name="hostAddress" value="10.6.197.66"/>
+         <property name="sessionId" value="e1148e9cb6a3aebdf811f8e0b9663532"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC1" classname="Test Cases/TC1" status="PASSED">
+         <system-out><![CDATA[2019-06-10 11:53:30 - [TEST_CASE][PASSED] - Test Cases/TC1: Test Cases/TC1
+
+2019-06-10 11:53:31 - [TEST_STEP][PASSED] - openBrowser("www.google.se"): Browser is opened with url: 'www.google.se'
+
+2019-06-10 11:53:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-06-10 11:53:31 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-06-10 11:53:37 - [MESSAGE][PASSED] - Browser is opened with url: 'www.google.se']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC3" classname="Test Cases/TC3" status="PASSED">
+         <system-out><![CDATA[2019-06-10 11:53:37 - [TEST_CASE][PASSED] - Test Cases/TC3: Test Cases/TC3
+
+2019-06-10 11:53:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-06-10 11:53:38 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-06-10 11:53:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-06-10 11:53:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-06-10 11:53:40 - [TEST_STEP][PASSED] - navigateToUrl("www.amazon.co.uk"): Navigate to 'http://www.amazon.co.uk' successfully
+
+2019-06-10 11:53:44 - [MESSAGE][PASSED] - Navigate to 'http://www.amazon.co.uk' successfully
+
+2019-06-10 11:53:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-06-10 11:53:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-06-10 11:53:29 - [TEST_SUITE][PASSED] - TS1: Test Cases/TC3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
