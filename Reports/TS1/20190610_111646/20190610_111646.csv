@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS1,Chrome 75.0.3770.80,,2019-06-10 11:16:50,2019-06-10 11:17:02,12.590s,PASSED
+,,,,,,
+Test Cases/TC1,Chrome 75.0.3770.80,,2019-06-10 11:16:50,2019-06-10 11:17:02,11.656s,PASSED
+"openBrowser(""www.google.se"")",Chrome 75.0.3770.80,,2019-06-10 11:16:52,2019-06-10 11:17:02,10.249s,PASSED

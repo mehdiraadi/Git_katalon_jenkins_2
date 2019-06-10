@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS1" time="12" tests="1" failures="0" errors="0">
+   <testsuite name="TS1" tests="1" failures="0" errors="0" time="12" timestamp="2019-06-10 11:16:50" hostname="jasmishaheer - 10.6.197.66" id="Test Suites/TS1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/jasmishaheer/Katalon Studio/Git_katalon_jenkins_2/Reports/TS1/20190610_111646"/>
+         <property name="logFiles" value="/Users/jasmishaheer/Katalon Studio/Git_katalon_jenkins_2/Reports/TS1/20190610_111646/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="jasmishaheer - 10.6.197.66"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="6.0.5.4"/>
+         <property name="browser" value="Chrome 75.0.3770.80"/>
+         <property name="hostAddress" value="10.6.197.66"/>
+         <property name="sessionId" value="a9fc07b08c41af61bf3949c531330801"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC1" classname="Test Cases/TC1" status="PASSED">
+         <system-out><![CDATA[2019-06-10 11:16:50 - [TEST_CASE][PASSED] - Test Cases/TC1: Test Cases/TC1
+
+2019-06-10 11:16:52 - [TEST_STEP][PASSED] - openBrowser("www.google.se"): Browser is opened with url: 'www.google.se'
+
+2019-06-10 11:16:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-06-10 11:16:54 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-06-10 11:17:02 - [MESSAGE][PASSED] - Browser is opened with url: 'www.google.se']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-06-10 11:16:50 - [TEST_SUITE][PASSED] - TS1: Test Cases/TC1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
